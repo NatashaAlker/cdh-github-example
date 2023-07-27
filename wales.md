@@ -3,4 +3,4 @@
 - Penygader
 - Glyder Fawr
 - Carnedd Llewelyn
-- Fan Brycheiniog
+- Fan
