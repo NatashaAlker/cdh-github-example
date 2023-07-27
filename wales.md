@@ -2,3 +2,5 @@
 - Pen y Fan
 - Penygader
 - Glyder Fawr
+- Carnedd Llewelyn
+- Fan Brycheiniog
