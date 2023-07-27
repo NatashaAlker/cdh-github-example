@@ -3,4 +3,6 @@
 - Penygader
 - Glyder Fawr
 - Carnedd Llewelyn
+- -Tryfan
 - Fan
+
